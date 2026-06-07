@@ -244,6 +244,4 @@ Flutter Community. (2022). Flutter Architecture Components. YouTube. Recuperado 
 
 Harty, J., Zhang, H., Wei, L., Pascarella, L., Aniche, M., & Shang, W. (2021). Logging Practices with Mobile Analytics: An Empirical Study on Firebase. arXiv. Recuperado de https://arxiv.org/abs/2104.02513
 
----
 
-*Documento elaborado como parte de la Actividad Evaluativa de la Unidad 3 – Lenguaje de Computación para Móviles.*
