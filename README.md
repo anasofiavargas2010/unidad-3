@@ -107,7 +107,7 @@ La arquitectura propuesta sigue el patrón en capas, dividiendo la aplicación e
 
 ### Diagrama de arquitectura
 
-![Diagrama de arquitectura mínima viable](imagenes/arquitectura.png)
+![Diagrama de arquitectura mínima viable](imagenes/arquitectura.svg)
 
 > El diagrama muestra las cuatro capas de la aplicación: interfaz de usuario, lógica de negocio, servicios (API, almacenamiento local, cámara, GPS/Notificaciones) y el backend externo junto con el almacenamiento en el dispositivo.
 
