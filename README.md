@@ -224,14 +224,25 @@ Los permisos se solicitan en el momento en que el usuario los necesita (just-in-
 
 ## 8. Video de sustentación
 
-> **Enlace al video:** [Agregar aquí el enlace de YouTube o Vimeo una vez grabado]
+> [Ver video](https://youtu.be/UI8YhbXc91Q)
 
-El video cubre los siguientes puntos (máximo 4 minutos):
-1. Descripción del problema y el público objetivo.
-2. Funcionalidades principales de la aplicación.
-3. Enfoque tecnológico seleccionado (Flutter) y justificación.
-4. Arquitectura mínima viable propuesta.
-5. Justificación de la decisión tecnológica frente a los demás enfoques.
+## Referencias 
+
+Flutter. (2026). Architectural Overview. Flutter Documentation. Recuperado de https://docs.flutter.dev/resources/architectural-overview
+
+Flutter. (2026). Flutter Documentation. Recuperado de https://docs.flutter.dev
+
+Firebase. (2026). Firebase Documentation. Google Developers. Recuperado de https://firebase.google.com/docs
+
+SQLite. (2026). SQLite Documentation. Recuperado de https://sqlite.org/docs.html
+
+SQLite. (2026). About SQLite. Recuperado de https://www.sqlite.org/about.html
+
+Google Developers. (2026). Firebase Documentation and Learning Resources. Recuperado de https://firebase.google.com/docs
+
+Flutter Community. (2022). Flutter Architecture Components. YouTube. Recuperado de https://www.youtube.com/watch?v=OzkNiDaCs4I
+
+Harty, J., Zhang, H., Wei, L., Pascarella, L., Aniche, M., & Shang, W. (2021). Logging Practices with Mobile Analytics: An Empirical Study on Firebase. arXiv. Recuperado de https://arxiv.org/abs/2104.02513
 
 ---
 
